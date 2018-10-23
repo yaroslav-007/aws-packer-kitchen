@@ -25,7 +25,7 @@ all pre-requirementa to make this work here:
 	- Check if installed 
 		``` packer -v ```
 - Create **AWS account**
-	- Create sandbox account
+    - Create sandbox account
     - Generete Access key and secret key
     - Create via console ec2 instance
     - Generate key pairs and added ot on /.ssh/id_rsa
@@ -33,11 +33,11 @@ all pre-requirementa to make this work here:
 
 ## How to run the code
 In the terminal run the following commands:
-	export AWS_ACCESS_KEY_ID=<ACCESS_KEY>
-    export AWS_SECRET_ACCESS_KEY=<SECRET_ACCESS>
-	bundle install 
-	kitchen list
-	kitchen converge
-	kitchen verify
-	kitchen destroy
 
+    export AWS_ACCESS_KEY_ID=<ACCESS_KEY>
+    export AWS_SECRET_ACCESS_KEY=<SECRET_ACCESS>
+    bundle install 
+    kitchen list
+    kitchen converge
+    kitchen verify
+    kitchen destroy
