@@ -1,6 +1,6 @@
 
 # kitchen-travis test
-Kitchen-vagrant test that checks the vagrant virtualbox box have redis
+Kitchen test that checks the image box has nginx
 
 ## pre-requirements
 
