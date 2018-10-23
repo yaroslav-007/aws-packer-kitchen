@@ -4,7 +4,7 @@ Kitchen-vagrant test that checks the vagrant virtualbox box have redis
 
 ## pre-requirements
 
-all pre-requirementa to make this work here:
+all pre-requirements to make this work here:
 - Linux OS Ubuntu 18.04
 - Install **Vagrant** 
 	- Download Vagrant from https://www.vagrantup.com/downloads.html
